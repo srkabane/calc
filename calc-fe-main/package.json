@@ -13,6 +13,8 @@
     "@mantine/core": "^7.12.0",
     "@mantine/hooks": "^7.12.0",
     "@radix-ui/react-slot": "^1.1.0",
+    "@react-three/drei": "^9.99.0",
+    "@react-three/fiber": "^8.15.16",
     "@typescript-eslint/eslint-plugin": "^8.0.1",
     "axios": "^1.7.3",
     "class-variance-authority": "^0.7.0",
@@ -25,8 +27,9 @@
     "react-dom": "^18.3.1",
     "react-draggable": "^4.4.6",
     "react-router-dom": "^6.26.0",
-    "tailwind-merge": "^2.4.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwind-merge": "^2.1.0",
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.161.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
@@ -34,6 +37,7 @@
     "@types/node": "^22.1.0",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
+    "@types/three": "^0.161.2",
     "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.9.1",
